@@ -34,10 +34,10 @@ function App() {
       </p>
       <p>
         More usefull links:
-        <a href="https://push.org/" target="_blank">Push Website</a>
-        <a href="https://github.com/pushchain" target="_blank">Push Github Repo</a>
-        <a href ="https://portal.push.org/rewards" target="_blank">Push Rewards</a>
-        <a href ="https://pushchain.github.io/push-chain-website/pr-preview/pr-1067/docs/" target="_blank">Push Documentation</a>
+        <a href="https://push.org/" target="_blank">Push Website</a>&nbsp;
+        <a href="https://github.com/pushchain" target="_blank">Push Github Repo</a>&nbsp;
+        <a href ="https://portal.push.org/rewards" target="_blank">Push Rewards</a>&nbsp;
+        <a href ="https://pushchain.github.io/push-chain-website/pr-preview/pr-1067/docs/" target="_blank">Push Documentation</a>&nbsp;
       </p>
     </>
   )
